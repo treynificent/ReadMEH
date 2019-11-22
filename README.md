@@ -41,7 +41,7 @@ The scope of this project will be developing a web application specifically for 
 
 ## Setup
 Github was used to implement version control. Each member has a respective "branch" in the repository below where thier contributions were located. Repository can be viewed here:
-https://github.com/AsanjiC/HUCommerce] 
+[https://github.com/AsanjiC/HUCommerce] 
 
 Amazon Identity and Access Management(IAM)is how we managed access to the same storage, database and application services on the AWS cloud. IAM is how we were able to change permissions for each user, apply API calls and track each users activity within each application service.
 
